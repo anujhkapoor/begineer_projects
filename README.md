@@ -1,2 +1,2 @@
-# begineer_projects
+# Begineer Projects
 
